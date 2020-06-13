@@ -8,5 +8,6 @@ Building code to scrape the following [Wikipedia page](https://en.wikipedia.org/
 
 ## Results
 Map of Toronto's Neighborhoods created based on Latitudes & Longitudes
+![alt text](https://github.com/danishanis/Segmenting-Clustering-Toronto-Neighborhoods/blob/master/Images/Toronto_Neighborhoods.png)
 
 
