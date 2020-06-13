@@ -10,4 +10,7 @@ Building code to scrape the following [Wikipedia page](https://en.wikipedia.org/
 Map of Toronto's Neighborhoods created based on Latitudes & Longitudes
 ![alt text](https://github.com/danishanis/Segmenting-Clustering-Toronto-Neighborhoods/blob/master/Images/Toronto_Neighborhoods.png)
 
+Map of Toronto's **segmented neighborhoods** produced by **K-Means clustering**
+![](https://github.com/danishanis/Segmenting-Clustering-Toronto-Neighborhoods/blob/master/Images/Toronto_Neighborhood_Clusters.png)
+
 
